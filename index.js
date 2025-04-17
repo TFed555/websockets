@@ -1,5 +1,9 @@
-import express from 'express'
-import fs from 'fs'
+//сервер
+
+// const express = require('express')
+// const fs = require('fs')
+import express from "express"
+import fs from "fs"
 
 
 const port = 4000;
